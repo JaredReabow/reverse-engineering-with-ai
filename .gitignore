@@ -1,0 +1,27 @@
+# Analysis material belongs in a separate private working area.
+artifacts/
+captures/
+firmware/
+private/
+scratch/
+*.bin
+*.img
+*.ext4
+*.apk
+*.odex
+*.dex
+*.pcap
+*.pcapng
+*.dump
+*.core
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
